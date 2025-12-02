@@ -64,4 +64,3 @@ Instead of a single "do it all" prompt, I utilized a **Modular Meta-Prompt Strat
 
 ## 👤 Author
 **Aaditya Sattawan** 
-*Front-End Development Intern Candidate*
